@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.18
+supervision==0.23.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+scikit-learn==1.5.2
+pandas==2.2.3
+roboflow==1.1.50
+git+https://github.com/roboflow/sports.git
+transformers==4.47.0
+torch==2.5.0
+torchvision==0.20.0
+umap-learn==0.5.7
+Pillow==10.4.0
+tqdm==4.66.0
+aiofiles==24.1.0
