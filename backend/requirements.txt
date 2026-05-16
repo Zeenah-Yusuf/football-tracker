@@ -7,7 +7,7 @@ numpy==1.26.4
 scikit-learn==1.5.2
 pandas==2.2.3
 roboflow==1.1.50
-git+https://github.com/roboflow/sports.git
+https://github.com/roboflow/sports/archive/refs/heads/main.zip
 transformers==4.47.0
 torch==2.5.0
 torchvision==0.20.0
