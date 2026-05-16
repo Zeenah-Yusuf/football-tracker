@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: football-tracker-api
+    env: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: ROBOFLOW_API_KEY
+        sync: false
